@@ -33,7 +33,7 @@ A RESTful API for job listings, built with Node.js, Express, and MongoDB.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/getparas/sensai-jobs-api
+   git clone https://github.com/prithaxdev/sensai-jobs-api
    cd sensai-jobs-api
    ```
 
